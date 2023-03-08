@@ -14,17 +14,17 @@ Procédure de réglage :
 
 - Remplacement des rotules une par une
 
--Tracteur sur une surface plane avec les deux cotés gonflés à la même pression 
+- Tracteur sur une surface plane avec les deux cotés gonflés à la même pression 
 
 - Une fois la rotule remplacée (coté gauche pour notre exemple) procédez a la Calibration du boitier en le plaçant sur la roue arrière droite
 
 - Déplacez délicatement le boitier sur le réducteur avant droite puis tournez le volant jusqu'a atteindre 0 degrés puis ne touchez plus au volant
 
--Répétez la Calibration coté gauche puis placez le boitier sur le réducteur gauche
+- Répétez la Calibration coté gauche puis placez le boitier sur le réducteur gauche
 
--Réglez la rotule jusqu'a zéro degrés
+- Réglez la rotule jusqu'a zéro degrés
 
--Répétez l'opération de calibrage en fin d'opération afin de vérifier et être sûr que l'IMU n'ai pas dévié
+- Répétez l'opération de calibrage en fin d'opération afin de vérifier et être sûr que l'IMU n'ai pas dévié
 
 
 Le bouton de Calibration est sur la pin 2
