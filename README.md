@@ -34,6 +34,9 @@ L'écran et l'IMU en liaison i2C
 Biliothèques nécessaires : 
 
 Adafruit_Sensor.h
+
 Adafruit_BNO055.h
+
 Adafruit_GFX.h
+
 Adafruit_SSD1306.h
