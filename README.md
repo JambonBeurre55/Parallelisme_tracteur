@@ -44,5 +44,5 @@ Adafruit_SSD1306.h
 
 LIEN VIDEO 
 
-[![Outil simple de réglage de parallélisme]([https://i.ytimg.com/vi/eZyhcQUfwfE/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCVW1UndZpTooOmKRm523Mxp6BaBQ](https://www.youtube.com/shorts/eZyhcQUfwfE))]
-(https://www.youtube.com/shorts/eZyhcQUfwfE)
+[![Outil simple de réglage de parallélisme](https://www.youtube.com/shorts/eZyhcQUfwfE)]
+
