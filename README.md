@@ -40,3 +40,9 @@ Adafruit_BNO055.h
 Adafruit_GFX.h
 
 Adafruit_SSD1306.h
+
+
+LIEN VIDEO 
+
+[![Outil simple de réglage de parallélisme](https://i.ytimg.com/vi/eZyhcQUfwfE/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCVW1UndZpTooOmKRm523Mxp6BaBQ)]
+(https://www.youtube.com/shorts/eZyhcQUfwfE)
