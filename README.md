@@ -47,3 +47,7 @@ LIEN VIDEO
 ![Outil simple de réglage de parallélisme](https://i.ytimg.com/vi/eZyhcQUfwfE/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCVW1UndZpTooOmKRm523Mxp6BaBQ)
 [Outil simple de réglage de parallélisme](https://www.youtube.com/shorts/eZyhcQUfwfE)
 
+
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
