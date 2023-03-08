@@ -12,12 +12,18 @@ Les adresses i2c seront peut être différentes pour votre écran et votre IMU.
 
 Procédure de réglage : 
 
-- Remplacement des rotules une par une. 
+- Remplacement des rotules une par une
+
 -Tracteur sur une surface plane avec les deux cotés gonflés à la même pression 
+
 - Une fois la rotule remplacée (coté gauche pour notre exemple) procédez a la Calibration du boitier en le plaçant sur la roue arrière droite
+
 - Déplacez délicatement le boitier sur le réducteur avant droite puis tournez le volant jusqu'a atteindre 0 degrés puis ne touchez plus au volant
+
 -Répétez la Calibration coté gauche puis placez le boitier sur le réducteur gauche
+
 -Réglez la rotule jusqu'a zéro degrés
+
 -Répétez l'opération de calibrage en fin d'opération afin de vérifier et être sûr que l'IMU n'ai pas dévié
 
 
