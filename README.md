@@ -46,5 +46,9 @@ LIEN VIDEO
 
 
 
-[![Outil simple de réglage de parallélisme](https://www.youtube.com/shorts/eZyhcQUfwfE)
+![hq720_2](https://user-images.githubusercontent.com/124312655/224015916-d8e3b1bf-063d-48a3-b0fa-59bef759b171.jpg)
+(https://www.youtube.com/shorts/eZyhcQUfwfE)
+
+
+![IMG_5306](https://user-images.githubusercontent.com/124312655/224015482-859a1fea-a04f-4263-9400-15b0e92586c4.png)
 
